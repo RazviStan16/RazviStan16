@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razvistan16&label=Profile%20views&color=0e75b6&style=flat" alt="razvistan16" /> </p>
 
-- 🔭 I’m currently working on **Tic Tac Toe Game in C**
+- 🔭 I’m currently working on **Tic Tac Toe Game in C++**
 
 - 🌱 I’m currently learning **Python**
 
